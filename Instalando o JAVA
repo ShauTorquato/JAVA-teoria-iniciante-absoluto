@@ -1,0 +1,10 @@
+- Verificando se o JAVA já está instalado no Windows PC:
+    Abrir o Prompt de Comando (cmd.exe) 
+
+        C:\Users\Your Name>java -version
+        
+    Caso o JAVA já esteja instalado, aparecerá informação acerca da versão instalada
+
+- Caso não apareça versão disponível, download gratuito em oracle.com
+
+CONTINUAR AMANHÃ
